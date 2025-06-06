@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 
 // https://app.uniswap.org/explore/pools/unichain/0x1D6ae37DB0e36305019fB3d4bad2750B8784aDF9
 
-const RPC_URL = "https://unichain-mainnet.infura.io/v3/c6fb131ee8f0445ba30054d08488c8e2";
+const RPC_URL = "https://unichain-mainnet.infura.io/v3/";
 const POOL_ADDRESS = "0x1D6ae37DB0e36305019fB3d4bad2750B8784aDF9";
 
 const POOL_ABI = [
